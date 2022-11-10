@@ -1,4 +1,4 @@
-# Flexbox
+# CSS Flexbox Layout
 
 ![Example](image.png)
 
